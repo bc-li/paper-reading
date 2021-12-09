@@ -1,13 +1,13 @@
 # leaf
 🍃 This repository contains some of my explorations on natural language processing.
 
-## paper reading reports
+## Paper Reading Reports
 
-| title                                                        | field | report link                 |
-| ------------------------------------------------------------ | ----- | --------------------------- |
-| Attention Is All You Need                                    | NLP   | https://bcli.me/transformer |
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NLP   | https://bcli.me/bert        |
-|                                                              |       |                             |
+| Title                                                        | Field | Time | Report link                       |
+| ------------------------------------------------------------ | ----- | ---- | --------------------------------- |
+| Attention Is All You Need                                    | NLP   |      | https://bcli.me/posts/transformer |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NLP   |      | https://bcli.me/posts/bert        |
 
-## toy projects
+
+## Toy Projects
 
