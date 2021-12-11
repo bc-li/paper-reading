@@ -7,7 +7,7 @@
 | ------------------------------------------------------------ | ----- | ---- | --------------------------------- |
 | Attention Is All You Need                                    | NLP   | 2017 | https://bcli.me/blog/transformer/ |
 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NLP   | 2018 | https://bcli.me/blog/bert         |
-| MORE TBC                                                     |       |      |                                   |
+| MORE TBA                                                     |       |      |                                   |
 
 
 ## Toy Projects
