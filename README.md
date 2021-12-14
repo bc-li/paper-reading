@@ -4,11 +4,12 @@
 BTW, I'm a green-hand on this! Still learning (⁎˃ᴗ˂⁎)
 ## Paper reading notes
 
-| Title                                                        | Field | Time | Report link                       |
-| ------------------------------------------------------------ | ----- | ---- | --------------------------------- |
-| Attention Is All You Need                                    | NLP   | 2017 | https://bcli.me/blog/transformer/ |
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NLP   | 2018 | https://bcli.me/blog/bert         |
-| MORE TBA                                                     |       |      |                                   |
+| Title                                                        | Field | Time | Report link                       | Status      |
+| ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- |
+| [NeurIPS 2017] Attention Is All You Need                     | NLP   | 2017 | https://bcli.me/blog/transformer/ | Almost done |
+| [NAACL 2019] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NLP   | 2018 | https://bcli.me/blog/bert         | Begin       |
+| [NeurIPS 2014] Sequence to Sequence Learning with Neural Networks | NLP   | 2014 | https://bcli.me/blog/seq2seq      | Pending     |
+| MORE TBA                                                     |       |      |                                   |             |
 
 
 ## Toy Projects
