@@ -19,3 +19,5 @@ BTW, I'm a green-hand on this! Still learning (⁎˃ᴗ˂⁎)
 ## Acknowledgements
 
 https://github.com/mli/paper-reading
+
+https://www.deeplearningbook.org/
