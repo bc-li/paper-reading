@@ -23,6 +23,12 @@
 
 ## kaggle 
 
+
+## Future release plan
+* Pytorch code corresponding to the papers
+* Kaggle writeups
+* Course projects (will release at 2022 summer)
+
 ## Acknowledgements
 
 https://github.com/mli/paper-reading
