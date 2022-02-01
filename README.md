@@ -1,5 +1,9 @@
-# leaf
-🍃 This repo contains my paper reading notes on NLP and some toy project code, kaggle writeups etc.
+<h1 align="center">🍃Leaf</h1>
+<div align="center">
+  This repo contains my paper reading notes on NLP and some toy project code, kaggle writeups etc.
+  
+  Check the notes at https://bcli.me/paperreading.
+</div>
 
 ## Paper reading notes
 
