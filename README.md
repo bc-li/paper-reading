@@ -16,6 +16,10 @@
 | [ICLR 2018] Non-Autoregressive Neural Machine Translation | NLP | 2018 | https://bcli.me/paper/nonauto | 2022/1/24 | Done |
 | [ICLR 2019] Parameter-Efficient Transfer Learning for NLP | NLP | 2019 | https://bcli.me/paper/petl | 2022/2/2 | 20% |
 | [ICLR 2018] Unsupervised Neural Machine Translation | NLP | 2018 | https://bcli.me/paper/unsupervised-NMT | - | Pending |
+### Further Reading
+| Title                                                        | Field | Time | Report link                       | Time I started | Status      |
+| ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
+| [SCTS 2020] Pre-trained Models for Natural Language Processing: A Survey | NLP   | 2020 | [UNDECIDED]https://bcli.me/survey | N/A | N/A |
 
 > 写 blog 的时候如未特殊说明则为从约为零基础开始。在 blog post 中我会把我为了理解文中一些比较 specific 的概念找到的相对容易理解的原出处贴到文中，方便查阅，且不再重复阐述。
 
