@@ -9,7 +9,7 @@
 ### PHASE #1
 | Title                                                        | Field | Time | Report link                       | Time I started | Status      |
 | ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
-| [ICCV 2015] Learning Deconvolution Network for Semantic Segmentation | VISION   | 2015 | https://bcli.me/paper/deconvnet/ | 2021/5/17 | Done |
+| [ICCV 2015] Learning Deconvolution Network for Semantic Segmentation | VISION   | 2015 | https://bcli.me/paper/deconvnet | 2021/5/17 | Done |
 | [NeurIPS 2017] Attention Is All You Need                     | NLP   | 2017 | https://bcli.me/paper/transformer | 2021/12/11 | Done |
 | [NAACL 2019] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | NLP   | 2018 | https://bcli.me/paper/bert         | 2021/12/15 | Done       |
 | [NeurIPS 2014] Sequence to Sequence Learning with Neural Networks | NLP   | 2014 | https://bcli.me/paper/seq2seq      | 2022/1/21 | Done  |
