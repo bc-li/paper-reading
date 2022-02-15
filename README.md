@@ -1,7 +1,6 @@
 <!-- <h1 align="center">🍃Leaf</h1>
 <div align="center"> -->
   This repo contains my paper reading notes on deep learning and some toy project code, kaggle writeups etc.
-  
   Check the notes at https://bcli.me/paperreading.
 </div>
 
@@ -16,7 +15,13 @@
 | [ICLR 2018] Non-Autoregressive Neural Machine Translation | NLP | 2018 | https://bcli.me/paper/nonauto | 2022/1/24 | Done |
 | [ICLR 2019] Parameter-Efficient Transfer Learning for NLP | NLP | 2019 | https://bcli.me/paper/petl | 2022/2/2 | Done |
 | [ICLR 2018] Unsupervised Neural Machine Translation | NLP | 2018 | https://bcli.me/paper/unsupervised-NMT | 2022/2/4 | Done |
-### Further Reading
+### PHASE #2
+| Title                                                        | Field | Time | Report link                       | Time I started | Status      |
+| ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
+| [NeurIPS 2019] Levenshtein Transformer | NLP | 2019 | https://bcli.me/paper/lt | 2022/2/15 | Pending |
+
+### Stack
+
 | Title                                                        | Field | Time | Report link                       | Time I started | Status      |
 | ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
 | [SCTS 2020] Pre-trained Models for Natural Language Processing: A Survey | NLP   | 2020 | N/A | N/A | N/A |
