@@ -1,6 +1,6 @@
 <!-- <h1 align="center">🍃Leaf</h1>
 <div align="center"> -->
-  This repo contains my paper reading notes on deep learning and some toy project code, kaggle writeups etc.
+  This repo contains my paper reading notes on deep learning.
   Check the notes at https://bc-li.github.io/paperreading.
 </div>
 
