@@ -16,20 +16,13 @@
 | [ICLR 2019] Parameter-Efficient Transfer Learning for NLP | NLP | 2019 | https://bc-li.github.io/paper/petl | 2022/2/2 | Done |
 | [ICLR 2018] Unsupervised Neural Machine Translation | NLP | 2018 | https://bc-li.github.io/paper/unsupervised-NMT | 2022/2/4 | Done |
 
-
 ### PHASE #1.5 
 
-| Title                                                        | Field | Time | Report link                       | Time I started | Status      |
-| ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
-| Gradient-based learning applied to document recognition | VISION   | 1998 |  https://bc-li.github.io/paper/lenet | 2022/2/25 | Pending |
-| [NeurIPS 2012] ImageNet Classification with Deep Convolutional Neural Networks | VISION   | 2012 |  https://bc-li.github.io/paper/alexnet | 2022/2/25 | Pending |
-| [ICLR 2015] Very deep convolutional networks for large-scale image recognition | VISION   | 2014 |  https://bc-li.github.io/paper/vgg | 2022/2/25 | Pending |
-| [CVPR 2015] Going Deeper with Convolutions | VISION   | 2015 |  https://bc-li.github.io/paper/vgg | 2022/2/25 | Pending |
-| [CVPR 2017] Densely connected convolutional networks | VISION   | 2017 |  https://bc-li.github.io/paper/densenet | 2022/2/25 | Pending |
-| [CVPR 2017] Densely connected convolutional networks | VISION   | 2017 |  https://bc-li.github.io/paper/densenet | 2022/2/25 | Pending |
-| MobileNets: Efficient Convolutional Neural Networks for Mobile | VISION   | 2017 |  https://bc-li.github.io/paper/mobilenets | 2022/2/25 | Pending |
-| SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size | VISION   | 2016 |  https://bc-li.github.io/paper/SqueezeNet | 2022/2/25 | Pending |
+* 对近年来比较经典的 CNN 架构类型做了简单小结，并基于 [d2l.ai](d2l.ai) 提供代码在 FASHION 数据集上进行训练，做了简单尝试。
 
+| Title                  | Field  | Time      | Report link                       | Time I started | Status  |
+| ---------------------- | ------ | --------- | --------------------------------- | -------------- | ------- |
+| Classic CNN structures | VISION | 1998-2017 | https://bc-li.github.io/paper/cnn | 2022/2/25      | Pending |
 
 ### PHASE #2
 | Title                                                        | Field | Time | Report link                       | Time I started | Status      |
