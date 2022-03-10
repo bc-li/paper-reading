@@ -1,5 +1,6 @@
-<!-- <h1 align="center">🍃Leaf</h1>
-<div align="center"> -->
+ <h1 align="center">🍃Paper Reading</h1>
+
+<div align="center"> 
   This repo contains my paper reading notes on deep learning.
   Check the notes at https://bc-li.github.io/paperreading.
 </div>
@@ -18,13 +19,15 @@
 
 ### PHASE #1.5 
 
-* 对近年来比较经典的 CNN 架构类型做了简单小结，并基于 [d2l.ai](d2l.ai) 提供代码在 FASHION 数据集上进行训练，做了简单尝试。
-
 | Title                  | Field  | Time      | Report link                       | Time I started | Status  |
 | ---------------------- | ------ | --------- | --------------------------------- | -------------- | ------- |
-| Classic CNN structures | VISION | 1998-2017 | https://bc-li.github.io/paper/cnn | 2022/2/25      | Pending |
+| Classic CNN structures | VISION | 1998-2017 | https://bc-li.github.io/paper/cnn | 2022/2/25      | 70% |
+| MobileNets: Efficient Convolutional Neural Networks for Mobile | VISION   | 2017 |  https://bc-li.github.io/paper/mobilenets | 2022/3/10 | Pending |
+| SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size | VISION   | 2016 |  https://bc-li.github.io/paper/SqueezeNet | 2022/3/10 | Pending |
+> Classic CNN structures: 对近年来比较经典的 CNN 架构类型做了小结，并基于 [d2l.ai](d2l.ai) 提供代码在 FASHION 数据集上进行训练，做了简单尝试。
 
 ### PHASE #2
+
 | Title                                                        | Field | Time | Report link                       | Time I started | Status      |
 | ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
 | [NeurIPS 2019] Levenshtein Transformer | NLP | 2019 | https://bc-li.github.io/paper/lt | 2022/2/15 | Pending |
