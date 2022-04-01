@@ -1,4 +1,4 @@
- <h1 align="center">🍃Paper Reading</h1>
+ <h1 align="center">Paper Reading</h1>
 
 <div align="center"> 
   This repo contains my paper reading notes on deep learning.
