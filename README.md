@@ -25,12 +25,13 @@
 | MobileNets series [V1 to V3] | VISION   | 2017 |  https://bc-li.github.io/paper/mobilenets | 2022/3/10 | Done |
 | SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size | VISION   | 2016 |  https://bc-li.github.io/paper/SqueezeNet | 2022/3/10 | Pending |
 > Classic CNN structures: 对近年来比较经典的 CNN 架构类型做了小结，并基于 [d2l.ai](d2l.ai) 提供代码在 FASHION 数据集上进行训练，做了简单尝试。
- 
+
 ### PHASE #2
 
 | Title                                                        | Field | Time | Report link                       | Time I started | Status      |
 | ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
-| [NeurIPS 2019] Levenshtein Transformer | NLP | 2019 | https://bc-li.github.io/paper/lt | 2022/2/15 | Pending |
+| [NeurIPS 2019] Levenshtein Transformer | NLP | 2019 | https://bc-li.github.io/paper/lt | 2022/2/15 | 70% |
+| [NeurIPS 2021] Multimodal Few-Shot Learning with Frozen Language Models | MultiModal | 2021 | https://bc-li.github.io/paper/frozenmodel | 2022/4/6 | 20% |
 
 
 ### Stack
