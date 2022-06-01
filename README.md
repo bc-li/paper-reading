@@ -44,6 +44,8 @@
 | [SCTS 2020] Pre-trained Models for Natural Language Processing: A Survey | NLP   | 2020 |
 | [EMNLP 2020] A Simple and Effective Model for Answering Multi-span Questions | NLP   | 2020 |
 | [NAACL 2022] OPERA: Operation-Pivoted Discrete Reasoning over Text | NLP| 2022|
+| [NAACL 2019] Drop: A reading comprehension benchmark requiring discrete reasoning over paragraphs | NLP| 2019|
+| [EMNLP 2020] Question directed graph attention network for numerical reasoning over text | NLP| 2020|
 
 > 写 blog 的时候如未特殊说明则为从约为零基础开始。在 blog post 中我会把我为了理解文中一些比较 specific 的概念找到的相对容易理解的原出处贴到文中，方便查阅，且不再重复阐述。
 
