@@ -34,6 +34,8 @@
 | [NeurIPS 2021] Multimodal Few-Shot Learning with Frozen Language Models | MultiModal | 2021 | https://bc-li.github.io/paper/frozenmodel | 2022/4/6 | 50% |
 | [ICCV 2021] Pano-AVQA: Grounded Audio-Visual Question Answering on 360◦ Videos | MultiModal | 2021 | https://bc-li.github.io/paper/pano-avqa | 2022/4/15 | Pending |
 | [CVPR 2022] Learning to Answer Questions in Dynamic Audio-Visual Scenarios | MultiModal | 2022 | https://bc-li.github.io/paper/music-avqa | 2022/4/15 | 80% |
+| [CVPR 2021] Taming Transformers for High-Resolution Image Synthesis | MultiModal | 2021 | https://bc-li.github.io/paper/vqgan | 2022/8/4 | Done |
+
 
 
 
