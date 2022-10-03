@@ -1,7 +1,7 @@
  <h1 align="center">Paper Reading</h1>
 
 <div align="center"> 
-  This repo contains my paper reading notes on deep learning.
+  This repo contains my paper reading notes on deep learning. (mainly on NLP)
   Check the notes at https://bc-li.github.io/paperreading.
 </div>
 
@@ -36,10 +36,15 @@
 | [CVPR 2022] Learning to Answer Questions in Dynamic Audio-Visual Scenarios | MultiModal | 2022 | https://bc-li.github.io/paper/music-avqa | 2022/4/15 | 80% |
 | [CVPR 2021] Taming Transformers for High-Resolution Image Synthesis | MultiModal | 2021 | https://bc-li.github.io/paper/vqgan | 2022/8/4 | Done |
 
+### PHASE #3 (2022 Fall)
+| Title                                                        | Field | Time | Report link                       | Time I started | Status      |
+| ------------------------------------------------------------ | ----- | ---- | --------------------------------- | ----------- | ----------- |
+| [NeurIPS 2020] Denoising Diffusion Probabilistic Models | ML | 2020 | https://bc-li.github.io/paper/ddpm | 2022/10/3 | Pending |
 
 
 
-### Stack[These are the papers I'm reading but will not write a note for]
+
+### Stack[These are the papers I've read but will not write a note for]
 
 | Title                                                        | Field | Time | 
 | ------------------------------------------------------------ | ----- | ---- | 
@@ -53,6 +58,8 @@
 
 
 ## Acknowledgements
+
+> 写 blog 的时候会参阅的资料和感觉比较好的 UP 主。
 
 https://github.com/mli/paper-reading
 
