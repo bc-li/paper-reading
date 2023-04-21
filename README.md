@@ -25,6 +25,7 @@
 | [CVPR 2022] Learning to Answer Questions in Dynamic Audio-Visual Scenarios | MultiModal | 2022 | https://bc-li.github.io/paper/music-avqa | 2022/4/15 | 80% |
 | [CVPR 2021] Taming Transformers for High-Resolution Image Synthesis | MultiModal | 2021 | https://bc-li.github.io/paper/vqgan | 2022/8/4 | Done |
 | [NeurIPS 2020] Denoising Diffusion Probabilistic Models | ML | 2020 | https://bc-li.github.io/paper/ddpm | 2022/10/3 | Pending |
+| [ICLR 2022] LoRA: Low-Rank Adaptation of Large Language Models | ML | 2022 | https://bc-li.github.io/paper/lora | 2023/4/21 | Pending |
 
 
 
